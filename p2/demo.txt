@@ -1,0 +1,12 @@
+                                                                                     
+Daily Report - 12/10/2020 - Nguyễn Trương Tiến
+■ Today plan:
+- research nodejs
+■ Actual: 
+- create web app
+- install nodemon	
+- install ejs
+- Template engine
+■ Tomorrow plan :    
+ - research nodejs         
+https://github.com/Ngtienltmt1/nodejs-v2/tree/Tien
